@@ -365,6 +365,9 @@ font-size: 22px;
 }
 
 @media (max-width: 650px){
+section{
+    margin-bottom: 50px;
+}
 .flex-features{
 flex-wrap: wrap;
 justify-content: center;
