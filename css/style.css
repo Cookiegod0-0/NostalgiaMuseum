@@ -381,6 +381,14 @@ max-width: 35%;
 .card__item{
 margin-bottom: 50px;
 }
+
+
+.first{
+background-size: contain;
+}
+.request-input{
+    padding: 3%;
+}
 }
 
 @media (max-width: 650px){
